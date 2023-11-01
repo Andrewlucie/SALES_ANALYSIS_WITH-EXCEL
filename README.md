@@ -19,7 +19,10 @@
  - Making first rows headers and converting the range into a table.
  - created new colunms and calcuted Revenue,Expense and Profit.
  - Date datatype changed from 'TEXT' to shortdate.
-## Data Analysis and Visuals
+## Data modeling using power pivot
+## ![Sale_data_models](https://github.com/Andrewlucie/SALES_ANALYSIS_WITH-EXCEL/assets/102406839/a08e8dc3-691a-445d-9c61-0421cb33e49e)
+
+## Data Analysis and visuals
 ###          Below is the Dashboard i created, i created a calender table that allow me to slice the data by months and also sclicable by products category.
 ![sales dashboard](https://github.com/Andrewlucie/SALES_ANALYSIS_WITH-EXCEL/assets/102406839/21da1821-d637-41e9-a8db-094eb804b649)
 [SALES ANALYSIS.xlsx](https://github.com/Andrewlucie/SALES_ANALYSIS_WITH-EXCEL/files/13186231/SALES.ANALYSIS.xlsx)
